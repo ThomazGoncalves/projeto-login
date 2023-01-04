@@ -17,6 +17,10 @@
         width: 70%;
     }
 
+    #formulario > p {
+        font-size: 1.2em;
+    }
+
 
 }
 
@@ -35,5 +39,10 @@
         float: right;
         width: 50%;
     }
+
+    #formulario > p {
+        font-size: 1.2em;
+    }
+    
 }
 
